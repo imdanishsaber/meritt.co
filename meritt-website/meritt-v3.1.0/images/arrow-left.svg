@@ -1,0 +1,14 @@
+<svg width="32" height="32" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <rect id="svg_1" width="32" height="32" fill="none"/>
+  <polygon transform="rotate(-180 16,15.883502960205076) " stroke="null" fill="#ffffff" id="svg_2" points="16,1.884003046900034 16,9.883003119379282 2,9.883003119379282 2,21.883003119379282 16,21.883003119379282 16,29.883003119379282 30,15.883003119379282 "/>
+  <path id="svg_4" d="m21.294114,18.247622" opacity="0.5" fill-opacity="null" stroke-opacity="null" stroke-width="null" stroke="null" fill="#ffffff"/>
+  <path id="svg_5" d="m17.491712,9.180355" opacity="0.5" fill-opacity="null" stroke-opacity="null" stroke-width="null" stroke="null" fill="#ffffff"/>
+ </g>
+</svg>
